@@ -31,7 +31,7 @@ import {
 
 import "./index.css";
 
-const API_URL = "http://127.0.0.1:5000/api";
+const API_URL = "https://safeher-backend-n9no.onrender.com/api";
 
 // Calculate distance between two locations
 const getDistance = (lat1, lon1, lat2, lon2) => {
